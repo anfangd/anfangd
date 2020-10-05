@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## anfand
+
+- [Qiita](https://qiita.com/anfangd)
+- [note](https://note.com/kodai1_jp)
+- [Twitter](https://twitter.com/kodai1_jp)
+- [zenn.dev](https://zenn.dev/anfangd)
+- [dev.to](https://dev.to/anfangd)
+- [connpass](https://connpass.com/user/anfangd/)
